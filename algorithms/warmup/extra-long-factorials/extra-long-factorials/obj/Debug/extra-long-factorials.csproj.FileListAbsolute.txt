@@ -1,0 +1,6 @@
+D:\GitHub\hackerrank\algorithms\warmup\extra-long-factorials\extra-long-factorials\bin\Debug\extra-long-factorials.exe.config
+D:\GitHub\hackerrank\algorithms\warmup\extra-long-factorials\extra-long-factorials\bin\Debug\extra-long-factorials.exe
+D:\GitHub\hackerrank\algorithms\warmup\extra-long-factorials\extra-long-factorials\bin\Debug\extra-long-factorials.pdb
+D:\GitHub\hackerrank\algorithms\warmup\extra-long-factorials\extra-long-factorials\obj\Debug\extra-long-factorials.csprojResolveAssemblyReference.cache
+D:\GitHub\hackerrank\algorithms\warmup\extra-long-factorials\extra-long-factorials\obj\Debug\extra-long-factorials.exe
+D:\GitHub\hackerrank\algorithms\warmup\extra-long-factorials\extra-long-factorials\obj\Debug\extra-long-factorials.pdb
