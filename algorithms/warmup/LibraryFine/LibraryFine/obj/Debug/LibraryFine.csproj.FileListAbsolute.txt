@@ -1,0 +1,6 @@
+D:\GitHub\hackerrank\algorithms\warmup\LibraryFine\LibraryFine\bin\Debug\LibraryFine.exe.config
+D:\GitHub\hackerrank\algorithms\warmup\LibraryFine\LibraryFine\bin\Debug\LibraryFine.exe
+D:\GitHub\hackerrank\algorithms\warmup\LibraryFine\LibraryFine\bin\Debug\LibraryFine.pdb
+D:\GitHub\hackerrank\algorithms\warmup\LibraryFine\LibraryFine\obj\Debug\LibraryFine.csprojResolveAssemblyReference.cache
+D:\GitHub\hackerrank\algorithms\warmup\LibraryFine\LibraryFine\obj\Debug\LibraryFine.exe
+D:\GitHub\hackerrank\algorithms\warmup\LibraryFine\LibraryFine\obj\Debug\LibraryFine.pdb
