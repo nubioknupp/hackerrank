@@ -1,0 +1,6 @@
+D:\GitHub\simple-array-sum\simple-array-sum\bin\Debug\simple-array-sum.exe.config
+D:\GitHub\simple-array-sum\simple-array-sum\bin\Debug\simple-array-sum.exe
+D:\GitHub\simple-array-sum\simple-array-sum\bin\Debug\simple-array-sum.pdb
+D:\GitHub\simple-array-sum\simple-array-sum\obj\Debug\simple-array-sum.csprojResolveAssemblyReference.cache
+D:\GitHub\simple-array-sum\simple-array-sum\obj\Debug\simple-array-sum.exe
+D:\GitHub\simple-array-sum\simple-array-sum\obj\Debug\simple-array-sum.pdb
