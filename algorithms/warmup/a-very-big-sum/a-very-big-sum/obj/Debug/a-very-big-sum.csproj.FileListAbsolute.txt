@@ -1,0 +1,6 @@
+D:\GitHub\hackerrank\algorithms\warmup\a-very-big-sum\a-very-big-sum\bin\Debug\a-very-big-sum.exe.config
+D:\GitHub\hackerrank\algorithms\warmup\a-very-big-sum\a-very-big-sum\bin\Debug\a-very-big-sum.exe
+D:\GitHub\hackerrank\algorithms\warmup\a-very-big-sum\a-very-big-sum\bin\Debug\a-very-big-sum.pdb
+D:\GitHub\hackerrank\algorithms\warmup\a-very-big-sum\a-very-big-sum\obj\Debug\a-very-big-sum.csprojResolveAssemblyReference.cache
+D:\GitHub\hackerrank\algorithms\warmup\a-very-big-sum\a-very-big-sum\obj\Debug\a-very-big-sum.exe
+D:\GitHub\hackerrank\algorithms\warmup\a-very-big-sum\a-very-big-sum\obj\Debug\a-very-big-sum.pdb
