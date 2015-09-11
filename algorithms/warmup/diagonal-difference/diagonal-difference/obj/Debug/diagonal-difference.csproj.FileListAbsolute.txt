@@ -1,0 +1,6 @@
+D:\GitHub\hackerrank\algorithms\warmup\diagonal-difference\diagonal-difference\bin\Debug\diagonal-difference.exe.config
+D:\GitHub\hackerrank\algorithms\warmup\diagonal-difference\diagonal-difference\bin\Debug\diagonal-difference.exe
+D:\GitHub\hackerrank\algorithms\warmup\diagonal-difference\diagonal-difference\bin\Debug\diagonal-difference.pdb
+D:\GitHub\hackerrank\algorithms\warmup\diagonal-difference\diagonal-difference\obj\Debug\diagonal-difference.csprojResolveAssemblyReference.cache
+D:\GitHub\hackerrank\algorithms\warmup\diagonal-difference\diagonal-difference\obj\Debug\diagonal-difference.exe
+D:\GitHub\hackerrank\algorithms\warmup\diagonal-difference\diagonal-difference\obj\Debug\diagonal-difference.pdb
