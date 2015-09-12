@@ -1,0 +1,6 @@
+D:\GitHub\hackerrank\algorithms\warmup\time-conversion\time-conversion\bin\Debug\time-conversion.exe.config
+D:\GitHub\hackerrank\algorithms\warmup\time-conversion\time-conversion\bin\Debug\time-conversion.exe
+D:\GitHub\hackerrank\algorithms\warmup\time-conversion\time-conversion\bin\Debug\time-conversion.pdb
+D:\GitHub\hackerrank\algorithms\warmup\time-conversion\time-conversion\obj\Debug\time-conversion.csprojResolveAssemblyReference.cache
+D:\GitHub\hackerrank\algorithms\warmup\time-conversion\time-conversion\obj\Debug\time-conversion.exe
+D:\GitHub\hackerrank\algorithms\warmup\time-conversion\time-conversion\obj\Debug\time-conversion.pdb
