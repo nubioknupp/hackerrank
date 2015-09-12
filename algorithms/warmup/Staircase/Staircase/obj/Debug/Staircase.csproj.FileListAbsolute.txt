@@ -1,0 +1,6 @@
+D:\GitHub\hackerrank\algorithms\warmup\Staircase\Staircase\bin\Debug\Staircase.exe.config
+D:\GitHub\hackerrank\algorithms\warmup\Staircase\Staircase\bin\Debug\Staircase.exe
+D:\GitHub\hackerrank\algorithms\warmup\Staircase\Staircase\bin\Debug\Staircase.pdb
+D:\GitHub\hackerrank\algorithms\warmup\Staircase\Staircase\obj\Debug\Staircase.csprojResolveAssemblyReference.cache
+D:\GitHub\hackerrank\algorithms\warmup\Staircase\Staircase\obj\Debug\Staircase.exe
+D:\GitHub\hackerrank\algorithms\warmup\Staircase\Staircase\obj\Debug\Staircase.pdb
